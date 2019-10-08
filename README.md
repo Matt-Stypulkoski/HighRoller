@@ -2,7 +2,7 @@
 
 High Roller is a strategic dice rolling game. You are given 3 dice to roll onto a board full of score multipliers. Your objective is to obtain the highest score with those 3 dice.
 
-Follow this link to play the game: https://mstypulk.github.io/HighRoller/
+Follow this link to play the game: https://matt-stypulkoski.github.io/HighRoller/
 
 # How To Play
 
